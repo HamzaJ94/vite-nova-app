@@ -5,7 +5,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
@@ -13,6 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@eliagroup-innersource/nova-components-native": "^1.1.1",
+    "@eliagroup-innersource/nova-components-react": "^1.1.1",
+    "@eliagroup-innersource/nova-core": "^2.3.0-rc1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
