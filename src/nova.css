@@ -28,3 +28,52 @@
     font-display: swap;
     ascent-override: 110%;
 }
+
+.headertext{
+    display: flex;
+}
+
+.labelSamplefn{
+    display: flex;
+    width: 20%;
+}
+
+.labelSampleln{
+    display: flex;
+    margin-top: 1.4%;
+    width: 20%;
+    }
+    
+
+.streetaddress{
+    display: flex;
+    width: 42%;
+}
+
+.labelSamplecs{
+    display: flex;
+    width: 20%;
+}
+
+.image{
+    position: relative;
+    left: 19%;
+}
+
+.labelSamplepn{
+    display: flex;
+    width: 20%;
+    
+}
+
+.labelSampleemail{
+    display: flex;
+    width: 20%;
+    margin-top: 1.4%;
+}
+
+.hrTag{
+    border-top: 1px solid lightgray;
+    width: 41%;
+    margin-left: 0.5%;
+}
