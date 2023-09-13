@@ -77,3 +77,31 @@
     width: 41%;
     margin-left: 0.5%;
 }
+
+.labelSamplefeed{
+    display: flex;
+    width: 20%;
+    
+}
+
+.labelSamplespecify{
+    display: flex;
+    width: 20%;
+    margin-bottom: 0.6%;
+}
+
+.LabelSamplefeedback{
+display: flex;
+width: 795px;
+}
+
+.table{
+    width: 45%;
+}
+
+.submitbtn{
+
+    color: green;
+    position: relative;
+    left: 20%;
+}
