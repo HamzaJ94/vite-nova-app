@@ -4,8 +4,9 @@ import {NvStack, NvFieldText, NvText, NvAvatar, NvFieldSelect, NvOption, NvField
 function App() {
 
   return (
-<div>
-    <NvText margin="5 0 0 0" padding={3} size= "xl" className="headertext" >CUSTOMER DETAILS:
+<div className='all'>
+
+<NvText margin="5 0 0 0" padding={3} size= "xl" className="headertext" >CUSTOMER DETAILS:
 </NvText>
 
 <NvStack gutter={4} margin="5 0 0 0" padding={3}>
