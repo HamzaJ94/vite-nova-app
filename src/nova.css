@@ -100,8 +100,17 @@ width: 795px;
 }
 
 .submitbtn{
-
-    color: green;
     position: relative;
     left: 20%;
+}
+
+.submitbtntest{
+    position: relative;
+    left: 17%;
+    color: white;
+    display: inline;
+    background-color: lightgreen;
+    border-radius: 3%;
+    height: 50px;
+    width: 200px;
 }

@@ -79,7 +79,8 @@ function App() {
 </NvTable>
 <br/>
 
-<NvButton className="submitbtn"> Submit </NvButton>
+<button className='submitbtntest'>Submit</button>
+<NvButton className="submitbtn" large> Submit </NvButton>
 
 </div>
   )
