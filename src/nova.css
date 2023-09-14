@@ -1,0 +1,120 @@
+@font-face {
+    font-display: block;
+    font-family: 'nova-icons';
+
+    font-weight: normal;
+    font-style: normal;
+    src: url('@eliagroup-innersource/nova-core/dist/assets/fonts/nova-icons.woff2') format('woff2');
+    descent-override: 15%;
+}@font-face {
+    font-family: "TT Norms Pro";
+    font-style: normal;
+    font-weight: 400;
+    src: url("@eliagroup-innersource/nova-core/dist/assets/fonts/tt-norms-pro-normal.woff2") format("woff2");
+    font-display: swap;
+    ascent-override: 110%;
+}@font-face {
+    font-family: "TT Norms Pro";
+    font-style: normal;
+    font-weight: 500;
+    src: url("@eliagroup-innersource/nova-core/dist/assets/fonts/tt-norms-pro-medium.woff2") format("woff2");
+    font-display: swap;
+    ascent-override: 110%;
+}@font-face {
+    font-family: "TT Norms Pro";
+    font-style: normal;
+    font-weight: 700;
+    src: url("@eliagroup-innersource/nova-core/dist/assets/fonts/tt-norms-pro-bold.woff2") format("woff2");
+    font-display: swap;
+    ascent-override: 110%;
+}
+
+.all{
+margin-left: 550px;
+}
+
+.headertext{
+    display: flex;
+}
+
+.labelSamplefn{
+    display: flex;
+    width: 25%;
+}
+
+.labelSampleln{
+    display: flex;
+    margin-top: 2.7%;
+    width: 25%;
+    }
+    
+
+.streetaddress{
+    display: flex;
+    width: 53%;
+}
+
+.labelSamplecs{
+    display: flex;
+    width: 25%;
+}
+
+.image{
+    position: relative;
+    left: 19%;
+}
+
+.labelSamplepn{
+    display: flex;
+    width: 25%;
+    
+}
+
+.labelSampleemail{
+    display: flex;
+    width: 25%;
+    margin-top: 2.7%;
+}
+
+.hrTag{
+    border-top: 1px solid lightgray;
+    width: 51%;
+    margin-left: 0.5%;
+}
+
+.labelSamplefeed{
+    display: flex;
+    width: 25%;
+    
+}
+
+.labelSamplespecify{
+    display: flex;
+    width: 25%;
+    margin-bottom: 1.2%;
+}
+
+.LabelSamplefeedback{
+    display: flex;
+    width: 550px;
+}
+
+.table{
+    width: 52%;
+}
+
+.submitbtn{
+    position: relative;
+    left: 20%;
+}
+
+.submitbtntest{
+    position: relative;
+    left: 17%;
+    color: white;
+    display: inline;
+    background-color: lightgreen;
+    border-radius: 3%;
+    height: 50px;
+    width: 200px;
+}
